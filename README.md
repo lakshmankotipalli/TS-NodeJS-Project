@@ -4,11 +4,19 @@ This project is a learning for creating RESTAPIs with TS and Nodejs
 
 ## Installation
 
-Clone or download the project and make a 
+Clone or download the project and make a in root folder
 
 ```bash
 npm install
 ```
+
+Then run
+
+```bash
+npm run dev
+```
+
+The server will run on localhost:7000 which can be checked and tested on Postman
 
 ## Usage
 
@@ -22,6 +30,11 @@ This project consists of below folders :
 ## Contributing
 
 This is a learning project, even though i am planning to expand this with FrontEnd modules, not expecting any contributions. Always open for PRs.
+
+## Testing the apis
+
+The REST APIs created can be tested by using Postman using urls those are mentioned in products.routes.ts and user.routes.ts
+
 
 ## Special Thanks
 
