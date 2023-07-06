@@ -1,9 +1,23 @@
 {
-  "e31c4c44-734f-4d73-8830-6e8df0397f7b": {
-    "id": "e31c4c44-734f-4d73-8830-6e8df0397f7b",
-    "name": "Wrist watch",
-    "price": 500,
-    "quantity": 50,
-    "image": "image_url.png"
+  "4953a9c7-1e41-4514-b3de-144341e8bb07": {
+    "id": "4953a9c7-1e41-4514-b3de-144341e8bb07",
+    "name": "Solar Bulb",
+    "price": 400,
+    "quantity": 2,
+    "image": "image-url.png"
+  },
+  "746d99c1-88c9-4715-98c3-306fc1bfd290": {
+    "id": "746d99c1-88c9-4715-98c3-306fc1bfd290",
+    "name": "Solar Watch",
+    "price": 400,
+    "quantity": 2,
+    "image": "image-url.png"
+  },
+  "08c5f611-e7b1-427f-a223-91830f186801": {
+    "id": "08c5f611-e7b1-427f-a223-91830f186801",
+    "name": "Solar power Unit",
+    "price": 2000,
+    "quantity": 1,
+    "image": "solar-image-url.png"
   }
 }
