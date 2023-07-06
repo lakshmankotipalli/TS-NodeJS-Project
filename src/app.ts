@@ -3,6 +3,7 @@ import * as dotenv from "dotenv"
 import cors from "cors"
 import helmet from "helmet"
 
+// importing userRouter and productRouter below
 import { userRouter } from "./users/user.routes";
 import { productRouter } from "./products/products.routes";
 
