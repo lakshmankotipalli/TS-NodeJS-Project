@@ -19,6 +19,7 @@ userRouter.get("/users", async (req: Request, res: Response) => {
 	}
 })
 
+// Get user
 userRouter.get("/user/:id", async (req: Request, res: Response) => {
 	try {
 		const user: UnitUser = await database.findOne(req.params.id)
@@ -83,7 +84,7 @@ userRouter.post("/login", async (req: Request, res: Response) => {
 	}
 })
 
-
+// Update user
 userRouter.put('/user/:id', async (req: Request, res: Response) => {
 
 	try {
