@@ -4,7 +4,7 @@ This project is a learning for creating RESTAPIs with TS and Nodejs
 
 ## Installation
 
-Clone or download the project and make a in root folder
+Clone or download the project and run the following command in root folder
 
 ```bash
 npm install
